@@ -32,4 +32,5 @@ Material:
     - Vector1_F2383498: 50000
     m_Colors:
     - Color_C39EC501: {r: 1, g: 1, b: 1, a: 0}
+    - Color_F3CB7FFE: {r: 0.4040699, g: 0.84313726, b: 0.15686272, a: 1}
     - Vector2_CC34E3A5: {r: 0.25, g: 2, b: 0, a: 0}
